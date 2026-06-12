@@ -19,7 +19,7 @@ function addTask(title) {
 
     // やることのタイトルを設定(このままだと、すべてのタイトルがHello Worldになってしまう！)
     task.title = title;
-    
+    //マージ確認用
 
     // 以降は無視して良い
     tasks.push(task);
